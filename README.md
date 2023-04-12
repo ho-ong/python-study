@@ -13,7 +13,7 @@
 
 <br>
 
-## 🗓 공부(Study)
+## 📚 공부(Study)
 | 날짜 | 범위 | 링크 |
 |-----|-----|-----|
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Lecture_20230407](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230407.ipynb) |
@@ -23,7 +23,7 @@
 
 <br>
 
-## 🗓 시험(Test)
+## 📝 시험(Test)
 | 날짜 | 범위 | 링크 |
 |-----|-----|-----|
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [20230407](https://github.com/ho-ong/python-study/tree/main/python_test/20230407) |
