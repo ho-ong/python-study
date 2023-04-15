@@ -28,7 +28,15 @@
 ## 📝 시험(Test)
 | 날짜 | 범위 | 링크 |
 |-----|-----|-----|
-| 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [20230407](https://github.com/ho-ong/python-study/tree/main/python_test/20230407) |
-| 2023.04.10 | 함수 | [20230410](https://github.com/ho-ong/python-study/tree/main/python_test/20230410) |
-| 2023.04.11 | 리스트, 튜플, 딕셔너리 | [20230411](https://github.com/ho-ong/python-study/tree/main/python_test/20230411) |
-| 2023.04.12 | 객체, 클래스, 상속, 파일, 예외, Pandas | [20230412](https://github.com/ho-ong/python-study/tree/main/python_test/20230412) |
+| 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Test_20230407](https://github.com/ho-ong/python-study/tree/main/python_test/20230407) |
+| 2023.04.10 | 함수 | [Python_Test_20230410](https://github.com/ho-ong/python-study/tree/main/python_test/20230410) |
+| 2023.04.11 | 리스트, 튜플, 딕셔너리 | [Python_Test_20230411](https://github.com/ho-ong/python-study/tree/main/python_test/20230411) |
+| 2023.04.12 | 객체, 클래스, 상속, 파일, 예외, Pandas | [Python_Test_20230412](https://github.com/ho-ong/python-study/tree/main/python_test/20230412) |
+
+<br>
+
+## 💻 연습(Training)
+| 날짜 | 범위 | 링크 |
+|-----|-----|-----|
+| 2023.04.13 | Flask | [Flask](https://github.com/ho-ong/python-study/tree/main/python_lecture/web_lecture) |
+| 2023.04.14 | Selenium | [Selenium](https://github.com/ho-ong/python-study/tree/main/python_lecture/crawling_lecture) |
