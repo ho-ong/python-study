@@ -19,7 +19,7 @@
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Lecture_20230407](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230407.ipynb) |
 | 2023.04.10 | 함수, 리스트 | [Python_Lecture_20230410](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230410.ipynb) |
 | 2023.04.11 | 튜플, 세트, 딕셔너리, 객체, 클래스, 상속 | [Python_Lecture_20230411](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230411.ipynb) |
-| 2023.04.12 | 파일, 예외, 행렬 및 시각화 라이브러리, 데이터 분석 라이브러리 (Pandas) | [Python_Lecture_20230412](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230412.ipynb) |
+| 2023.04.12 | 파일, 예외, 행렬 및 시각화 라이브러리 (Matplotlib, Seaborn, Numpy), 데이터 분석 라이브러리 (Pandas) | [Python_Lecture_20230412](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230412.ipynb) |
 | 2023.04.13 | Flask | [Python_Lecture_20230413](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230413.ipynb) |
 | 2023.04.14 | 데이터 크롤링 (Selenium) | [Python_Lecture_20230414](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230414.ipynb) |
 
