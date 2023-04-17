@@ -41,3 +41,4 @@
 |-----|-----|-----|
 | 2023.04.13 | Flask | [Flask](https://github.com/ho-ong/python-study/tree/main/python_lecture/web_lecture) |
 | 2023.04.14 | Selenium | [Selenium](https://github.com/ho-ong/python-study/tree/main/python_lecture/crawling_lecture) |
+| 2023.04.17 | Machine Learning | [Machine Learning](https://github.com/ho-ong/python-study/tree/main/python_lecture/machine_learning_lecture) |
