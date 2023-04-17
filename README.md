@@ -22,6 +22,7 @@
 | 2023.04.12 | 파일, 예외, Matplotlib, Seaborn, Numpy, Pandas | [Python_Lecture_20230412](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230412.ipynb) |
 | 2023.04.13 | Flask | [Python_Lecture_20230413](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230413.ipynb) |
 | 2023.04.14 | Selenium | [Python_Lecture_20230414](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230414.ipynb) |
+| 2023.04.17 | Machine Learning | [Python_Lecture_20230417](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230417.ipynb) |
 
 <br>
 
