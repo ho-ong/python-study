@@ -6,11 +6,6 @@
 ## 📌 파이썬(Python)
 <img src = "https://user-images.githubusercontent.com/114772095/230765972-10e56f4f-2adc-4e07-962b-baac72e74b6d.png" width = "200" height = "200">
 
-- 1991년에 귀도 반 로섬(Guido van Rossum)이 개발한 대화형 프로그래밍 언어이다.
-- 생산성이 뛰어나고, 초보자에게 쉬운 언어이다.
-- 인터프리터 언어이다.
-- 라이브러리가 풍부하고, 설치가 쉽다.
-
 <br>
 
 ## 📚 공부(Study)
