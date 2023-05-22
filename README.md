@@ -4,9 +4,9 @@
 <br>
 
 ## 📌 파이썬(Python)
-<img src = "https://user-images.githubusercontent.com/114772095/230765972-10e56f4f-2adc-4e07-962b-baac72e74b6d.png" width = "200" height = "200">
+<img src = "https://github.com/ho-ong/python-study/assets/114772095/3fae90ad-4938-4307-b307-a7fc71798afa.png" width = "200" height = "200">
 
-<br>
+<br><br>
 
 ## 📚 공부(Study)
 | 날짜 | 내용 | 링크 |
