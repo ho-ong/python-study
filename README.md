@@ -9,7 +9,7 @@
 <br>
 
 ## 📚 공부(Study)
-| 날짜 | 범위 | 링크 |
+| 날짜 | 내용 | 링크 |
 |-----|-----|-----|
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Lecture_20230407](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230407.ipynb) |
 | 2023.04.10 | 함수, 리스트 | [Python_Lecture_20230410](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230410.ipynb) |
@@ -22,7 +22,7 @@
 <br>
 
 ## 📝 시험(Test)
-| 날짜 | 범위 | 링크 |
+| 날짜 | 내용 | 링크 |
 |-----|-----|-----|
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Test_20230407](https://github.com/ho-ong/python-study/tree/main/python_test/20230407) |
 | 2023.04.10 | 함수 | [Python_Test_20230410](https://github.com/ho-ong/python-study/tree/main/python_test/20230410) |
@@ -32,7 +32,7 @@
 <br>
 
 ## 💻 연습(Training)
-| 날짜 | 범위 | 링크 |
+| 날짜 | 내용 | 링크 |
 |-----|-----|-----|
 | 2023.04.13 | Flask | [Flask](https://github.com/ho-ong/python-study/tree/main/python_lecture/web_lecture) |
 | 2023.04.14 | Selenium | [Selenium](https://github.com/ho-ong/python-study/tree/main/python_lecture/crawling_lecture) |
