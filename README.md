@@ -1,14 +1,14 @@
 # python-study
-> <오픈소스SW 기반 AI 서비스플랫폼 개발자 양성과정> 중 <빅데이터 역량> 수업을 통해 Python 공부를 진행하고 있다.
+> <오픈소스SW 기반 AI 서비스플랫폼 개발자 양성과정> 수업을 통해 Python을 학습했다.
 
 <br>
 
-## 📌 파이썬(Python)
+## 📌 Python
 <img src = "https://github.com/ho-ong/python-study/assets/114772095/3fae90ad-4938-4307-b307-a7fc71798afa.png" width = "200" height = "200">
 
 <br><br>
 
-## 📚 공부(Study)
+## 📚 Study
 | 날짜 | 내용 | 링크 |
 |-----|-----|-----|
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Lecture_20230407](https://github.com/ho-ong/python-study/blob/main/python_lecture/Python_Lecture_20230407.ipynb) |
@@ -21,7 +21,7 @@
 
 <br>
 
-## 📝 시험(Test)
+## 📝 Test
 | 날짜 | 내용 | 링크 |
 |-----|-----|-----|
 | 2023.04.07 | 출력, 변수, 문자열, 조건문, 반복문 | [Python_Test_20230407](https://github.com/ho-ong/python-study/tree/main/python_test/20230407) |
@@ -31,7 +31,7 @@
 
 <br>
 
-## 💻 연습(Training)
+## 💻 Training
 | 날짜 | 내용 | 링크 |
 |-----|-----|-----|
 | 2023.04.13 | Flask | [Flask](https://github.com/ho-ong/python-study/tree/main/python_lecture/web_lecture) |
